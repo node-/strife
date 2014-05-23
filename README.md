@@ -1,0 +1,4 @@
+strife
+======
+
+a dumb bot
